@@ -19,7 +19,7 @@ def speak_to_grandma(love)
   elsif love == love.upcase
     "NO, NOT SINCE 1938!"
   else
-    "HUH?! SPEAK UP, SONNYY"
+    "HUH?! SPEAK UP, SONNY!"
   end
 end
   
