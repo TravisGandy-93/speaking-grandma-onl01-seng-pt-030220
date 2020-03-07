@@ -16,8 +16,8 @@ def speak_to_grandma(love)
   
   if love == "i love you grandma!".upcase
     puts "I LOVE YOU TOO PUMPKIN!"
-  elsif love == "Hi Nana, how are you?"
-    puts "HUH?! SPEAK UP, SONNY!"
-  elsif love == "Hi!"
-    puts "HUH?! SPEAK UP, SONNY!"
   elsif love == 
+  
+  else
+    puts "HUH?! SPEAK UP, SONNY!"
+ 
