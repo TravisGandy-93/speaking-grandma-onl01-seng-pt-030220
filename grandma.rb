@@ -23,10 +23,4 @@ def speak_to_grandma(love)
   end
 end
   
-  speak_to_grandma("I LOVE YOU GRANDMA!")
-  
-  speak_to_grandma("YOU BEEN OUT DANCIN GRANNY?")
-  
-  speak_to_grandma("hey hey granny")
-  
-  speak_to_grandma("HeYY hey")
+ 
